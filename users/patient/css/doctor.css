@@ -1,0 +1,54 @@
+.formDefault{
+	max-width: 400px;
+	margin: 0px auto;
+} 
+
+#fullMonth{
+	display: block;
+	margin: 10px auto;
+}
+.returnedData{
+	margin-top: 10px;
+}
+.breadcrumb{
+	max-width: 200px;
+}
+
+.home{
+	width: 130px;
+}
+#info .form-group-sm {
+	margin-top: 15px;
+	text-align: center;
+}
+#info span{
+	background-color: #E9E1FF;
+	color: #3B4F78;
+	padding: 6px;
+	border-radius: 4px;
+	padding-bottom: 10px;
+}
+#info hr{
+	width: 180px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-top: 1px solid #E1E1E1;
+}
+#info input{
+	margin-bottom: 5px;
+}
+
+#newPatient .modal-header{
+	background-color: rgb(57, 164, 222);
+	color: rgb(255, 255, 255);
+}
+.modal-body{
+	background-color: #FBFBFB;
+}
+#newApp .modal-header{
+	background-color: #DE9039;
+	color: rgb(255, 255, 255);
+}
+#ajax{
+	visibility: hidden;
+}

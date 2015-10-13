@@ -1,0 +1,110 @@
+.formDefault{
+	max-width: 400px;
+	margin: 0px auto;
+} 
+
+#fullMonth{
+	display: block;
+	margin: 10px auto;
+}
+.returnedData{
+	margin-top: 10px;
+}
+.breadcrumb{
+	max-width: 200px;
+}
+
+.home{
+	width: 140px;
+}
+#info .form-group-sm {
+	margin-top: 15px;
+	text-align: center;
+}
+#info span{
+	background-color: #E9E1FF;
+	color: #3B4F78;
+	padding: 6px;
+	border-radius: 4px;
+	padding-bottom: 10px;
+}
+#info hr{
+	width: 180px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-top: 1px solid #E1E1E1;
+}
+#info input{
+	margin-bottom: 5px;
+}
+
+#newPatient .modal-header, #newApp .modal-header{
+	background-color: #DD4814;
+	color: rgb(255, 255, 255);
+}
+.modal-body{
+	background-color: #FBFBFB;
+}
+
+#ajax{
+	visibility: hidden;
+}
+
+.navbar-inverse{
+	border-radius: 0px;
+}
+
+#pWidth{
+	max-width: 1000px;
+	text-align: center;
+}
+
+.patients img{
+	width: 50px;
+}
+
+.patients tbody tr td{
+	padding: 2px;
+}
+.patients tbody tr td{
+	vertical-align: middle;
+}
+#reportrange{
+	background: #fff;
+	cursor: pointer;
+	padding: 5px 10px;
+	border: 1px solid #ccc;
+	width: 100%
+}
+.panel-footer{
+	text-align: right;
+}
+.statistics{
+	max-width: 800px;
+}
+
+.right{
+	text-align: right;
+}
+
+#trash{
+	width: 70px;
+	height: 70px;
+	position: absolute;
+	right: 10px;
+	top: -15px;
+	cursor: pointer;
+
+}
+#calendarPop .modal-header{
+	background-color: #F06969;
+	color: white;
+}
+#deleteApp{
+	float: left;
+
+}
+
+#calendarFeed table td:first-child{
+	font-weight: bold;
+}
